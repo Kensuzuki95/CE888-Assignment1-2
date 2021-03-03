@@ -1,2 +1,2 @@
-# CE888
-Repository for course assignments, datasets, and projects for CE888 Data Science and Decision Making
+# CE888 Project 2: TweetEval-based Multi-class tweet classification
+The 
