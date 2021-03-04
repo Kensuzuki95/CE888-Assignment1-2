@@ -7,3 +7,4 @@ The `Assignment_1_CE888.ipynb` contains codes for assignemnt 1. There are mainly
 All data are accessible from the Tweeteval github page, I have loaded my date via Google Drive by downloading the datasets from the github page and uploading to my personal drive.
 
 Upon preprocessing, I will conducting NLP tasks on Assignment 2. 
+URL to access to CE888 Assignemnts Github Repository: https://github.com/Kensuzuki95/CE888-Assignments-and-Lab-Works.git
