@@ -1,5 +1,0 @@
-{dataset} = - train_text.txt
-			- train_labels.txt
-			- val_text.txt
-			- val_labels.txt
-			- test_text.txt
