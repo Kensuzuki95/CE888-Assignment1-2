@@ -1,6 +1,6 @@
 # CE888 Project 2: TweetEval tweet classification tasks
 
-This Github Repository contains original codes and preprocessed datasets used in the CE888 Assignement 2 Paper[Title: Performance Evaluation of A Lite BERT (ALBERT)
+This Github Repository contains original codes and preprocessed datasets used in the CE888 Assignement 2 Paper Titiled: [Performance Evaluation of A Lite BERT (ALBERT)
 and LSTM on Multi-Class Tweet Classification Task under Lower Computational Environment](https://drive.google.com/file/d/1zRfJUGnegm-Ilbybi9d7UPwIQKA1qRNr/view?usp=sharing). 
 
 ## The Description of Jupyter Notebooks
